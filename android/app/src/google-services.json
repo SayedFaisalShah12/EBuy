@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "181676103804",
+    "firebase_url": "https://faisal-b977d-default-rtdb.firebaseio.com",
+    "project_id": "faisal-b977d",
+    "storage_bucket": "faisal-b977d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181676103804:android:1c9755d17929bfaa6491f9",
+        "android_client_info": {
+          "package_name": "com.example.agrinet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181676103804-ctpg927842uaidn59s9usecjkpvbos5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisiCB1nJyCSJHqL2zLSw-CUdaIFDUmU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181676103804-ctpg927842uaidn59s9usecjkpvbos5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181676103804:android:ff0da8278ce7ff736491f9",
+        "android_client_info": {
+          "package_name": "com.example.ebuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181676103804-ctpg927842uaidn59s9usecjkpvbos5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisiCB1nJyCSJHqL2zLSw-CUdaIFDUmU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181676103804-ctpg927842uaidn59s9usecjkpvbos5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181676103804:android:4b2511ff75aae2456491f9",
+        "android_client_info": {
+          "package_name": "com.example.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181676103804-ctpg927842uaidn59s9usecjkpvbos5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisiCB1nJyCSJHqL2zLSw-CUdaIFDUmU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181676103804-ctpg927842uaidn59s9usecjkpvbos5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
